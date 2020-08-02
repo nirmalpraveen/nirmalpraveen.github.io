@@ -1,10 +1,19 @@
-## Nirmal Praveen Lingisetty
-
 ### About
 
 Nirmal Praveen Lingisetty is an experienced Software Engineer with a demonstrated history of working in the B2B E-commerce, Patch maintenance and Diagnostics Domains. Skilled in React JS, Redux, Node.js, Angular 4, GraphQL, ES6 JavaScript, Handlebar.js, Mongo DB, Oracle, jQuery, JSP, Ajax, Perl, PL/Sql, HTML, CSS and Software Development Life Cycle (SDLC). Strong engineering professional with a Bachelor of Technology (B.Tech.) focused in Computer Science and Engineering from IIIT Nuzvid 
 
-### Markdown
+### Education
+
+```markdown
+**APIIIT - Rajiv Gandhi University of Knowledge Technologies**
+B.Tech Computer Science and Engineering - (2010-2014) - 8.25CGPA
+
+**APIIIT - Rajiv Gandhi University of Knowledge Technologies**
+Pre University Course MBiPC - (2008-2010) - 9.02CGPA
+
+**St. Pauls Hight School, Phirangipuram**
+X Class SSC - (2008) - 93.14%
+```
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
