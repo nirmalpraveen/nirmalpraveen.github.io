@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Nirmal Praveen Lingisetty
 
-You can use the [editor on GitHub](https://github.com/nirmalpraveen/nirmalpraveen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### About
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nirmal Praveen Lingisetty is an experienced Software Engineer with a demonstrated history of working in the B2B E-commerce, Patch maintenance and Diagnostics Domains. Skilled in React JS, Redux, Node.js, Angular 4, GraphQL, ES6 JavaScript, Handlebar.js, Mongo DB, Oracle, jQuery, JSP, Ajax, Perl, PL/Sql, HTML, CSS and Software Development Life Cycle (SDLC). Strong engineering professional with a Bachelor of Technology (B.Tech.) focused in Computer Science and Engineering from IIIT Nuzvid 
 
 ### Markdown
 
